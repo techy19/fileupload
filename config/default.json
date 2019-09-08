@@ -1,0 +1,9 @@
+{
+    "DB": {
+      "DB_HOST": "127.0.0.1",
+      "DB_NAME": "excercises",
+      "DB_USER": "postgres",
+      "DB_PORT": "5434"
+    }
+  }
+  

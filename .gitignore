@@ -1,0 +1,5 @@
+/node_modules/
+/uploads/
+yarn-*
+*nyc*
+/coverage/
